@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> E-Library</title>
+</head>
+
+<style>
+body{
+background-image: url("");
+background-repeat: no;
+height:100px;
+width:400px;
+}
+</style>
+
+<body>
+	<div style="background-color: brown; position:absolute ; height:10px; width:400px;"
+    <h1 style=> Lucifer's Library<h1>
+
+<img alt="logo" src="C:\Users\acer\Desktop\wp pbl\logo.jpeg" width="195" height="84" padding-left:300px>
+
+</div>
+      <marquee>We’re all gr8 readers here!</marquee>
+      <p> Welcome to the GOAT of Libraries.<br>One of the most accessible Libraries ever!<br> This is the KGF of Books.</p>
+
+<h2>Who are U?</h2>
+<UL>
+	<li><a href="">Login</a></li>
+	<li><a href="">Register</a></li>
+	<li><a href="">Guest</a></li>
+</UL>
+
+<h3>Main Menu</h3>
+<UL>
+	<li><a href="#">Buy a Book</a></li>
+	<li><a href="#">Rent a Book</a></li>
+	<li><a href="#">Search</a></li>
+	<li><a href="#">Membership Details</a></li>
+	</UL>
+
+
+<h3>What it an E-Library?</h3>
+<p>An e-library website is an online platform that provides users with access to a vast collection of digital resources, including books, magazines, newspapers, research papers, and other academic materials. The website serves as a virtual library, where users can browse and search for digital content from anywhere in the world, at any time.
+Overall, an e-library website provides a convenient and accessible way for users to access digital resources, making it an essential tool for researchers, students, and anyone interested in reading and learning.
+Once users find the content they are interested in, they can view it online or download it to their device for offline access. The website may also offer various reading modes, such as a night mode or a zoom feature, to make reading more comfortable.</p>
+
+<h4>About Us</h4>
+<h5>Contact Us</h5>
+
+<p> Disclaimer: All the books purchased will be delivered 2u via Mail.</p>
+
+</body>
+</html>

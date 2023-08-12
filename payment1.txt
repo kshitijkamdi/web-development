@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Payment</title>
+</head>
+<body>
+
+<h1>Scan the following QR code to pay the amount.</h1>
+<img src=""C:\Users\acer\Desktop\wp pbl\Qr1.png"" width="200" height="200">
+<h2>After Successful Payment, Book/Details will automatically Delivered to ur registered E-mail/Mobile number.</h2>
+</body>
+</hmtl>

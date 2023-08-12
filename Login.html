@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Login Credentials</h1>
+<p>Enter the following details to get back to your Bookmarked section</p>
+
+
+
+<button onclick="num()">Mob No.</button>
+<button onclick="pass()">Password</button>
+
+<p id="demo"></p>
+
+<script>
+function num() {
+  let person = prompt("Please enter your Mobile Number-", "7979797979");
+  if (person != null) {
+    document.getElementById("demo").innerHTML =
+    "Hello " + person;
+  }
+}
+
+function pass() {
+  let pass = prompt("Please enter your Password", "123456");
+  if (pass != null) {
+    document.getElementById("demo").innerHTML =
+    "Done!";
+    }
+    }
+</script>
+<a href="https://drive.google.com/drive/folders/1H15_1yB2XAtJasLjdbjE9JY9mnKqLvRv?usp=share_link">Go Ahead--></a>
+
+</body>
+</html>
